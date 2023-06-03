@@ -1,2 +1,2 @@
 # react-vehicles
-The app fetched a list of vehicles from an endpoint
+The app fetches a list of vehicles from an endpoint

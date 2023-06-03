@@ -1,0 +1,86 @@
+.list-group .list-group-item{
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+
+.list {
+  text-align: left;
+  max-width: 90%;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.add-btn{
+  text-decoration: none;
+  background-color: #ae9999;
+  color: #ffffff;
+  padding: 8px 20px;
+  border: 0;
+}
+
+.header-holder {
+  margin-bottom: 25px ;
+}
+
+.header-holder h4{
+   font-size: 20px;
+   font-weight: 500px;
+}
+
+.list-holder {
+  border-radius: 15px;
+  padding: 80px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.car-detail {
+  border: rgb(207, 197, 197) 1px solid;
+  border-radius: 15px;
+}
+
+.car-detail h4{
+  font-size: 17px;
+  padding: 0;
+  margin: 0;
+}
+
+.car-detail .header{
+   padding: 10px 20px;
+   border-radius: 15px 15px 0 0;
+     background-color: #ae9999;
+     color: #ffffff;
+}
+
+.car-detail label{
+   padding: 5px 20px;
+   width: 100px;
+}
+
+.submit-form {
+  border-radius: 15px;
+  padding: 80px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  max-width: 80%;
+}
+
+.submit-form .form-group {
+  margin-bottom: 10px;
+}
+
+.success-msg-holder h4{
+  margin-bottom: 15px;
+}
+
+.active {
+   background-color: #ae9999 !important;
+   border: 1px solid #ae9999 !important;
+}
